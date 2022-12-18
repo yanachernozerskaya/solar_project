@@ -7,6 +7,9 @@ from solar_vis import *
 from solar_model import *
 from solar_input import *
 
+""" test commit """
+
+
 perform_execution = False
 """Флаг цикличности выполнения расчёта"""
 
